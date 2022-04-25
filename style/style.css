@@ -1,0 +1,397 @@
+*{
+	padding:0px;
+	margin:0px;
+	}
+ul{
+	list-style:none;
+	}
+body{
+	font-family: "微软雅黑";
+	}
+.nav{
+	width:100%;
+	height:60px;
+	}
+.navtext{
+	display:inline-block;
+	line-height:60px;
+	font-family:"微软雅黑";
+	font-size:18px;
+	margin-left:340px;
+	}
+.navul{
+	display:inline-block;
+	color:#CCCCCC;
+	font-family:"微软雅黑";
+	font-size:15px;
+	margin-left:600px;
+	}
+.navul ul li{
+	display:inline;
+	width:60px;
+	height:60px;
+	text-align:center;
+	margin-left:20px auto;
+	}
+.navul ul a{
+	text-decoration:none;
+	color:#333333;
+	font-size:15px;
+	font-family:"微软雅黑";
+	}
+.navcolor:hover{
+	color:#FF6700;
+	}
+.box{
+	width:100%;
+	height:1000px;
+	background:no-repeat center center fixed;
+	overflow:hidden;
+	}
+.box .text{
+	margin-left:20%;
+	margin-top:20%;
+	}
+.box .text h2{
+	font-weight:400px;
+	font-size:36px;
+	color:#333333;
+	line-height:1.6em;
+	}
+.box .text p{
+	font-size:16px;
+	color:#333333;
+	line-height:1.8em;
+	margin-top:25px;
+	}
+.box .text a{
+	font-size:16px;
+	color:#ff6700;
+	text-decoration:none;
+	}
+.box .text .price{
+	font-size:14px;
+	color:#ff0000;
+	margin-top:30px;
+	margin-bottom:20px;
+	}
+.box .text .price span{
+	font-size:36px;
+	}
+.box1{
+	background-image:url(../images/h-12.jpg)
+	}
+.box2{
+	background-image:url(../images/h-8.jpg);
+	}
+.box3{
+	background-image:url(../images/h-13.jpg);
+	}
+.box4{
+	background: #666666 url(../images/h-14.jpg) no-repeat center bottom;
+	}
+.box5{
+	background-image:url(../images/h-24.jpg);
+	}
+.box6-1{
+	width:25%;
+	height:33%;
+	background:#252525;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	}
+.box6-2{
+	width:25%;
+	height:33%;
+	background:#1A1A1A;
+	margin-top:-330px;
+	margin-left:25%;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	}
+.box6-3{
+	width:25%;
+	height:33%;
+	background:#1F1F1F;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	margin-top:-330px;
+	margin-left:50%;
+	}
+.box6-4{
+	width:25%;
+	height:33%;
+	background:#1A1A1A;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	margin-top:-330px;
+	margin-left:75%;
+	}
+.box6-5{
+	width:25%;
+	height:33%;
+	background:#1F1F1F;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	}
+.box6-6{
+	width:25%;
+	height:33%;
+	background:#252525;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	margin-top:-330px;
+	margin-left:75%;
+	}
+.box6-7{
+	width:25%;
+	height:33%;
+	background:#1A1A1A;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	}
+.box6-8{
+	width:25%;
+	height:33%;
+	background:#252525;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	margin-top:-330px;
+	margin-left:25%;
+	}
+.box6-9{
+	width:25%;
+	height:33%;
+	background:#1A1A1A;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	margin-top:-330px;
+	margin-left:50%;
+	}
+.box6-10{
+	width:25%;
+	height:33%;
+	background:#1F1F1F;
+	text-family:"微软雅黑";
+	color:#666666;
+	text-align:center;
+	line-height:333px;
+	margin-top:-330px;
+	margin-left:75%;
+	}
+.box6-main{
+	width:60%;
+	height:40%;
+	background:#2F2F2F;
+	text-family:"微软雅黑";
+	color:#FFFFFF;
+	line-height:auto;
+	text-align:center;
+	margin-top:-695px;
+	margin-left:20%;
+	overflow:hidden;
+	}
+.box .box6-main a{
+	font-size:20px;
+	line-height:30px;
+	color:#ff6700;
+	text-decoration:none;
+	}
+.box7{
+	background-image:url(../images/h-21.jpg);
+	}
+.box8-1{
+	width:100%;
+	height:1000px;
+	background-color:#EEEEEE;
+	}
+.box8-2{
+	display:inline-block;
+	width:57%;
+	height:51%;
+	background-color:#FFFFFF;
+	margin-left:21%;
+	margin-top:250px;
+	}
+.box8-3{
+	display:inline-block;
+	width:90%;
+	height:80%;
+	border:solid 1px;
+	border-color:rgb(221,214,195);
+	background-color:#FFFFFF;
+	text-family:"微软雅黑";
+	line-height:auto;
+	text-align:center;
+	margin-left:5%;
+	margin-top:5%;
+	overflow:hidden;
+	}
+.box8-1 .box8-3 p{
+	font-size:18px;
+	line-height:35px;
+	}
+.box8-1 .box8-3 a{
+	font-size:20px;
+	line-height:30px;
+	color:#ff6700;
+	text-decoration:none;
+	}
+.box9{
+	width:100%;
+	height:1000px;
+	}
+.box9-1{
+	width:100%;
+	height:100px;
+	}
+.box9-1 p{
+	line-height:40px;
+	text-align:center;
+	margin-top:150px;
+	}
+.box9-2-1{
+	width:265px;
+	height:405px;
+	background:url(../images/h-21.png) no-repeat;
+	margin-left:20%;
+	margin-top:20px;
+	}
+.box9-2-2{
+	width:265px;
+	height:405px;
+	background:url(../images/h-22.png) no-repeat;
+	margin-left:43%;
+	margin-top:-405px;
+	}
+.box9-2-3{
+	width:265px;
+	height:405px;
+	background:url(../images/h-25.png) no-repeat;
+	margin-left:66%;
+	margin-top:-405px;
+	}
+.box9-circle-bronde{
+	width:16px;
+	height:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	background-color:rgb(224,205,155);
+	}
+.box9-circle-grey{
+	width:16px;
+	height:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	background-color:rgb(232,232,232);
+	}
+.box9-circle-black{
+	width:16px;
+	height:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	background-color:rgb(45,45,45);
+	}
+.box9-circle-pink{
+	width:16px;
+	height:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	background-color:rgb(245,202,232);
+	}
+.box9-3-1{
+	width:160px;
+	height:16px;
+	margin-top:25px;
+	margin-left:425px;
+	}
+.box9 .box9-3-1 ul li{
+	display:inline;
+	width:36px;
+	height:36px;
+	text-align:center;
+	float:left;
+	}
+.box9 .box9-3-1 ul a{
+	text-decoration:none;
+	}
+.box9-3-2{
+	width:160px;
+	height:16px;
+	margin-left:850px;
+	margin-top:-80px
+	}
+.box9 .box9-3-2 ul li{
+	display:inline;
+	width:36px;
+	height:36px;
+	text-align:center;
+	float:left;
+	}
+.box9 .box9-3-2 ul a{
+	text-decoration:none;
+	}
+.box9-3-3{
+	width:160px;
+	height:16px;
+	margin-left:1300px;
+	margin-top:-160px
+	}
+.box9 .box9-3-3 ul li{
+	display:inline;
+	width:36px;
+	height:36px;
+	text-align:center;
+	float:left;
+	}
+.box9 .box9-3-3 ul a{
+	text-decoration:none;
+	}
+.box9-4-1{
+	width:300px;
+	height:200px;
+	margin-left:350px;
+	margin-top:250px
+	}
+.box9-4-2{
+	width:300px;
+	height:200px;
+	margin-left:775px;
+	margin-top:-200px
+	}
+.box9-4-3{
+	width:300px;
+	height:200px;
+	margin-left:1215px;
+	margin-top:-200px
+	}
+.box9-4-1,.box9-4-2,.box9-4-3 p{
+	text-align:center;
+	line-height:auto;
+	}
